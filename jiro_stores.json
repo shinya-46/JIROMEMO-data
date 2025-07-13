@@ -314,7 +314,49 @@
     "holiday": "火曜日",
     "x_account_url": null
   },
-  {
-    "id": "sapporo",
-    "name": "ラーメン二郎 札幌店",
-    "addres
+   {
+        "id": "sapporo",
+        "name": "ラーメン二郎 札幌店",
+        "address": "北海道札幌市中央区南6条西9-1024-10",
+        "latitude": 43.0519,
+        "longitude": 141.3468,
+        "holiday": "不定休",
+        "x_account_url": "https://x.com/jiro_sapporo"
+    },
+    {
+        "id": "sendai",
+        "name": "ラーメン二郎 仙台店",
+        "address": "宮城県仙台市青葉区立町2-8",
+        "latitude": 38.2622,
+        "longitude": 140.8659,
+        "holiday": "日・祝・不定休",
+        "x_account_url": "https://x.com/jiro_sendai1023"
+    },
+    {
+        "id": "aizu_wakamatsu",
+        "name": "ラーメン二郎 会津若松駅前店",
+        "address": "福島県会津若松市駅前町2-1",
+        "latitude": 37.5020,
+        "longitude": 139.9275,
+        "holiday": "月曜日",
+        "x_account_url": "https://x.com/jiro_aizu"
+    },
+    {
+        "id": "niigata",
+        "name": "ラーメン二郎 新潟店",
+        "address": "新潟県新潟市中央区万代5-2-8",
+        "latitude": 37.9155,
+        "longitude": 139.0601,
+        "holiday": "月曜日",
+        "x_account_url": "https://x.com/jiro_niigata"
+    },
+    {
+        "id": "kyoto",
+        "name": "ラーメン二郎 京都店",
+        "address": "京都府京都市左京区一乗寺里ノ前町4",
+        "latitude": 35.0500,
+        "longitude": 135.7925,
+        "holiday": "水曜日",
+        "x_account_url": null
+    }
+    ]
