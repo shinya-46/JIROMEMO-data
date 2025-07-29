@@ -385,14 +385,5 @@
     "longitude": 135.7925,
     "holiday": "水曜日",
     "x_account_url": null
-  },
-  {
-    "id": "nagoya",
-    "name": "ラーメン二郎 名古屋店",
-    "address": "愛知県名古屋市中区栄4-10-14",
-    "latitude": 35.1666,
-    "longitude": 136.9118,
-    "holiday": "日・月・祝",
-    "x_account_url": null
   }
 ]
