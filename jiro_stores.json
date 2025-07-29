@@ -394,14 +394,5 @@
     "longitude": 136.9118,
     "holiday": "日・月・祝",
     "x_account_url": null
-  },
-  {
-    "id": "okayama",
-    "name": "ラーメン二郎 岡山店",
-    "address": "岡山県岡山市北区学南町2-7-25",
-    "latitude": 34.6792,
-    "longitude": 133.9265,
-    "holiday": "木曜日",
-    "x_account_url": null
   }
 ]
