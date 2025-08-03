@@ -18,31 +18,13 @@
     "x_account_url": null
   },
   {
-    "id": "jinbocho",
-    "name": "ラーメン二郎 神田神保町店",
-    "address": "東京都千代田区神田神保町1-21-1",
-    "latitude": 35.6948,
-    "longitude": 139.7573,
+    "id": "sengawa",
+    "name": "ラーメン二郎 仙川店",
+    "address": "東京都調布市仙川町1-10-17",
+    "latitude": 35.6631,
+    "longitude": 139.5843,
     "holiday": "日曜日",
-    "x_account_url": "https://x.com/jinbochojiro"
-  },
-  {
-    "id": "ogikubo",
-    "name": "ラーメン二郎 荻窪店",
-    "address": "東京都杉並区荻窪4-33-1",
-    "latitude": 35.7036,
-    "longitude": 139.6222,
-    "holiday": "月・祝",
-    "x_account_url": "https://x.com/jiro_ogikubo"
-  },
-  {
-    "id": "ueno_hirokoji",
-    "name": "ラーメン二郎 上野広小路店",
-    "address": "東京都台東区上野3-17-5",
-    "latitude": 35.7075,
-    "longitude": 139.7734,
-    "holiday": "日曜日",
-    "x_account_url": "https://x.com/ueno_jiro"
+    "x_account_url": null
   },
   {
     "id": "shinjuku_kabukicho",
@@ -51,15 +33,6 @@
     "latitude": 35.6968,
     "longitude": 139.7013,
     "holiday": "水曜日",
-    "x_account_url": null
-  },
-  {
-    "id": "shinjuku_kotakibashi",
-    "name": "ラーメン二郎 新宿小滝橋通り店",
-    "address": "東京都新宿区西新宿7-5-5",
-    "latitude": 35.6961,
-    "longitude": 139.6967,
-    "holiday": "日・祝",
     "x_account_url": null
   },
   {
@@ -72,31 +45,13 @@
     "x_account_url": null
   },
   {
-    "id": "ikebukuro_higashi",
-    "name": "ラーメン二郎 池袋東口店",
-    "address": "東京都豊島区南池袋2-27-17",
-    "latitude": 35.7271,
-    "longitude": 139.7153,
-    "holiday": "月曜日",
-    "x_account_url": "https://x.com/jiro_ikebukuro"
-  },
-  {
-    "id": "nishidai",
-    "name": "ラーメン二郎 西台駅前店",
-    "address": "東京都板橋区蓮根3-9-7",
-    "latitude": 35.7820,
-    "longitude": 139.6749,
-    "holiday": "日・祝・不定休",
-    "x_account_url": "https://x.com/jiro_nishidai"
-  },
-  {
-    "id": "kameido",
-    "name": "ラーメン二郎 亀戸店",
-    "address": "東京都江東区亀戸4-35-17",
-    "latitude": 35.6983,
-    "longitude": 139.8265,
-    "holiday": "日曜日",
-    "x_account_url": "https://x.com/jiro_kame"
+    "id": "shinjuku_kotakibashi",
+    "name": "ラーメン二郎 新宿小滝橋通り店",
+    "address": "東京都新宿区西新宿7-5-5",
+    "latitude": 35.6961,
+    "longitude": 139.6967,
+    "holiday": "日・祝",
+    "x_account_url": null
   },
   {
     "id": "shindaita",
@@ -108,51 +63,6 @@
     "x_account_url": "https://x.com/26_smda"
   },
   {
-    "id": "senju_ohashi",
-    "name": "ラーメン二郎 千住大橋駅前店",
-    "address": "東京都足立区千住橋戸町10-8",
-    "latitude": 35.7460,
-    "longitude": 139.7951,
-    "holiday": "木曜日",
-    "x_account_url": "https://x.com/senjudai26"
-  },
-  {
-    "id": "sakuradai",
-    "name": "ラーメン二郎 桜台駅前店",
-    "address": "東京都練馬区桜台1-5-1",
-    "latitude": 35.7410,
-    "longitude": 139.6582,
-    "holiday": "不定休",
-    "x_account_url": null
-  },
-  {
-    "id": "ichinoe",
-    "name": "ラーメン二郎 環七一之江店",
-    "address": "東京都江戸川区一之江8-3-4",
-    "latitude": 35.6881,
-    "longitude": 139.8732,
-    "holiday": "水曜日",
-    "x_account_url": null
-  },
-  {
-    "id": "akabane",
-    "name": "ラーメン二郎 赤羽店",
-    "address": "東京都北区赤羽1-22-3",
-    "latitude": 35.7797,
-    "longitude": 139.7215,
-    "holiday": "水曜日",
-    "x_account_url": null
-  },
-  {
-    "id": "ueno_ge",
-    "name": "ラーメン二郎 上野毛店",
-    "address": "東京都世田谷区上野毛1-26-16",
-    "latitude": 35.6111,
-    "longitude": 139.6358,
-    "holiday": "日・祝",
-    "x_account_url": null
-  },
-  {
     "id": "hachioji_yaen",
     "name": "ラーメン二郎 八王子野猿街道店2",
     "address": "東京都八王子市堀之内2-13-16",
@@ -162,31 +72,31 @@
     "x_account_url": "https://x.com/jiro_yaenkaido2"
   },
   {
-    "id": "hachioji_mejirodai",
-    "name": "ラーメン二郎 めじろ台店",
-    "address": "東京都八王子市めじろ台2-1-1",
-    "latitude": 35.6393,
-    "longitude": 139.2977,
-    "holiday": "日・木",
-    "x_account_url": null
+    "id": "ikebukuro_higashi",
+    "name": "ラーメン二郎 池袋東口店",
+    "address": "東京都豊島区南池袋2-27-17",
+    "latitude": 35.7271,
+    "longitude": 139.7153,
+    "holiday": "月曜日",
+    "x_account_url": "https://x.com/jiro_ikebukuro"
   },
   {
-    "id": "tachikawa",
-    "name": "ラーメン二郎 立川店",
-    "address": "東京都立川市柴崎町2-10-1",
-    "latitude": 35.6953,
-    "longitude": 139.4172,
-    "holiday": "水曜日",
-    "x_account_url": "https://x.com/jiro_tachikawa"
+    "id": "kameido",
+    "name": "ラーメン二郎 亀戸店",
+    "address": "東京都江東区亀戸4-35-17",
+    "latitude": 35.6983,
+    "longitude": 139.8265,
+    "holiday": "日曜日",
+    "x_account_url": "https://x.com/jiro_kame"
   },
   {
-    "id": "hibarigaoka",
-    "name": "ラーメン二郎 ひばりヶ丘駅前店",
-    "address": "東京都西東京市谷戸町3-27-24",
-    "latitude": 35.7618,
-    "longitude": 139.5298,
+    "id": "keikyu_kawasaki",
+    "name": "ラーメン二郎 京急川崎店",
+    "address": "神奈川県川崎市川崎区本町2-10",
+    "latitude": 35.5320,
+    "longitude": 139.7025,
     "holiday": "日・祝",
-    "x_account_url": "https://x.com/jiro_hibari"
+    "x_account_url": "https://x.com/jiro_keikyu_kw"
   },
   {
     "id": "fuchu",
@@ -198,40 +108,58 @@
     "x_account_url": null
   },
   {
-    "id": "shin_koganei",
-    "name": "ラーメン二郎 新小金井街道店",
-    "address": "東京都小金井市貫井北町3-30-12",
-    "latitude": 35.7118,
-    "longitude": 139.5218,
-    "holiday": "金曜日",
+    "id": "matsudo_ekimae",
+    "name": "ラーメン二郎 松戸駅前店Ⅲ",
+    "address": "千葉県松戸市本町1-14",
+    "latitude": 35.7825,
+    "longitude": 139.9000,
+    "holiday": "日・祝",
+    "x_account_url": "https://x.com/jiromatsudo"
+  },
+  {
+    "id": "hachioji_mejirodai",
+    "name": "ラーメン二郎 めじろ台店",
+    "address": "東京都八王子市めじろ台2-1-1",
+    "latitude": 35.6393,
+    "longitude": 139.2977,
+    "holiday": "日・木",
     "x_account_url": null
   },
   {
-    "id": "yokohama_kannai",
-    "name": "ラーメン二郎 横浜関内店",
-    "address": "神奈川県横浜市中区長者町6-94",
-    "latitude": 35.4409,
-    "longitude": 139.6322,
+    "id": "ogikubo",
+    "name": "ラーメン二郎 荻窪店",
+    "address": "東京都杉並区荻窪4-33-1",
+    "latitude": 35.7036,
+    "longitude": 139.6222,
+    "holiday": "月・祝",
+    "x_account_url": "https://x.com/jiro_ogikubo"
+  },
+  {
+    "id": "ueno_ge",
+    "name": "ラーメン二郎 上野毛店",
+    "address": "東京都世田谷区上野毛1-26-16",
+    "latitude": 35.6111,
+    "longitude": 139.6358,
+    "holiday": "日・祝",
+    "x_account_url": null
+  },
+  {
+    "id": "keisei_okubo",
+    "name": "ラーメン二郎 京成大久保店",
+    "address": "千葉県船橋市三山2-1-11",
+    "latitude": 35.7130,
+    "longitude": 140.0573,
     "holiday": "日曜日",
-    "x_account_url": "https://x.com/kannaijiro"
+    "x_account_url": "https://x.com/keisei_okubo_26"
   },
   {
-    "id": "fujisawa",
-    "name": "ラーメン二郎 湘南藤沢店",
-    "address": "神奈川県藤沢市本町1-10-14",
-    "latitude": 35.3408,
-    "longitude": 139.4890,
-    "holiday": "火曜日",
-    "x_account_url": "https://x.com/enfujisawa"
-  },
-  {
-    "id": "nakayama_ekimae",
-    "name": "ラーメン二郎 中山駅前店",
-    "address": "神奈川県横浜市緑区中山1-6-18",
-    "latitude": 35.5135,
-    "longitude": 139.5447,
-    "holiday": "木曜日",
-    "x_account_url": "https://x.com/NKYMJIRO"
+    "id": "ichinoe",
+    "name": "ラーメン二郎 環七一之江店",
+    "address": "東京都江戸川区一之江8-3-4",
+    "latitude": 35.6881,
+    "longitude": 139.8732,
+    "holiday": "水曜日",
+    "x_account_url": null
   },
   {
     "id": "sagamiono",
@@ -243,76 +171,49 @@
     "x_account_url": "https://x.com/rekishi_shinei"
   },
   {
-    "id": "atsugi",
-    "name": "ラーメン二郎 厚木店",
-    "address": "神奈川県厚木市中町2-6-13",
-    "latitude": 35.4385,
-    "longitude": 139.3621,
+    "id": "yokohama_kannai",
+    "name": "ラーメン二郎 横浜関内店",
+    "address": "神奈川県横浜市中区長者町6-94",
+    "latitude": 35.4409,
+    "longitude": 139.6322,
     "holiday": "日曜日",
-    "x_account_url": "https://x.com/jiro_atsugi"
+    "x_account_url": "https://x.com/kannaijiro"
   },
   {
-    "id": "chiba",
-    "name": "ラーメン二郎 千葉店",
-    "address": "千葉県千葉市中央区中央1-7-8",
-    "latitude": 35.6108,
-    "longitude": 140.1243,
+    "id": "kanda_jinbocho",
+    "name": "ラーメン二郎 神田神保町店",
+    "address": "東京都千代田区神田神保町1-21-1",
+    "latitude": 35.6948,
+    "longitude": 139.7573,
     "holiday": "日曜日",
-    "x_account_url": "https://x.com/jiro_c"
+    "x_account_url": "https://x.com/jinbochojiro"
   },
   {
-    "id": "matsudo",
-    "name": "ラーメン二郎 松戸戸田店",
-    "address": "千葉県松戸市根本462-2",
-    "latitude": 35.7836,
-    "longitude": 139.9008,
-    "holiday": "日・祝",
-    "x_account_url": "https://x.com/jiromatsudo"
-  },
-  {
-    "id": "kashiwa",
-    "name": "ラーメン二郎 柏店",
-    "address": "千葉県柏市十余二249-5",
-    "latitude": 35.8778,
-    "longitude": 139.9322,
-    "holiday": "月曜日",
+    "id": "koiwa",
+    "name": "ラーメン二郎 小岩店",
+    "address": "東京都江戸川区西小岩3-31-13",
+    "latitude": 35.7360,
+    "longitude": 139.8795,
+    "holiday": "日曜日",
     "x_account_url": null
   },
   {
-    "id": "omiya_koen",
-    "name": "ラーメン二郎 大宮公園駅前店",
-    "address": "埼玉県さいたま市大宮区寿能町1-24",
-    "latitude": 35.9231,
-    "longitude": 139.6335,
-    "holiday": "水曜日",
-    "x_account_url": "https://x.com/jiro_omiya"
+    "id": "hibarigaoka",
+    "name": "ラーメン二郎 ひばりヶ丘駅前店",
+    "address": "東京都西東京市谷戸町3-27-24",
+    "latitude": 35.7618,
+    "longitude": 139.5298,
+    "holiday": "日・祝",
+    "x_account_url": "https://x.com/jiro_hibari"
   },
   {
-    "id": "koshigaya",
-    "name": "ラーメン二郎 越谷店",
-    "address": "埼玉県越谷市越ヶ谷2-3-7",
-    "latitude": 35.8900,
-    "longitude": 139.7905,
-    "holiday": "水曜日",
-    "x_account_url": "https://x.com/ksgy_jiro"
-  },
-  {
-    "id": "kawagoe",
-    "name": "ラーメン二郎 川越店",
-    "address": "埼玉県川越市旭町1-4-15",
-    "latitude": 35.9066,
-    "longitude": 139.4791,
+    "id": "sakuradai",
+    "name": "ラーメン二郎 桜台駅前店",
+    "address": "東京都練馬区桜台1-5-1",
+    "latitude": 35.7410,
+    "longitude": 139.6582,
     "holiday": "不定休",
-    "x_account_url": "https://x.com/jiro_kawagoe"
-  },
-  {
-    "id": "wakaba",
-    "name": "ラーメン二郎 坂戸店",
-    "address": "埼玉県坂戸市関間4-1-3",
-    "latitude": 35.9490,
-    "longitude": 139.4060,
-    "holiday": "木曜日",
-    "x_account_url": "https://x.com/jiro_sakado"
+    "x_account_url": null
   },
   {
     "id": "tochigi",
@@ -324,31 +225,58 @@
     "x_account_url": "https://x.com/tochigikaido"
   },
   {
-    "id": "hitachinaka",
-    "name": "ラーメン二郎 ひたちなか店",
-    "address": "茨城県ひたちなか市一番町11-23",
-    "latitude": 36.3957,
-    "longitude": 140.5367,
-    "holiday": "火曜日",
+    "id": "tachikawa",
+    "name": "ラーメン二郎 立川店",
+    "address": "東京都立川市柴崎町2-10-1",
+    "latitude": 35.6953,
+    "longitude": 139.4172,
+    "holiday": "水曜日",
+    "x_account_url": "https://x.com/jiro_tachikawa"
+  },
+  {
+    "id": "senju_ohashi",
+    "name": "ラーメン二郎 千住大橋駅前店",
+    "address": "東京都足立区千住橋戸町10-8",
+    "latitude": 35.7460,
+    "longitude": 139.7951,
+    "holiday": "木曜日",
+    "x_account_url": "https://x.com/senjudai26"
+  },
+  {
+    "id": "kashiwa",
+    "name": "ラーメン二郎 柏店",
+    "address": "千葉県柏市十余二249-5",
+    "latitude": 35.8778,
+    "longitude": 139.9322,
+    "holiday": "月曜日",
     "x_account_url": null
   },
   {
-    "id": "maebashi",
-    "name": "ラーメン二郎 前橋千代田町店",
-    "address": "群馬県前橋市千代田町4-12-3",
-    "latitude": 36.3934,
-    "longitude": 139.0716,
-    "holiday": "月曜日",
-    "x_account_url": "https://x.com/jiro_maebashi"
+    "id": "fujisawa",
+    "name": "ラーメン二郎 湘南藤沢店",
+    "address": "神奈川県藤沢市本町1-10-14",
+    "latitude": 35.3408,
+    "longitude": 139.4890,
+    "holiday": "火曜日",
+    "x_account_url": "https://x.com/enfujisawa"
   },
   {
-    "id": "sapporo",
-    "name": "ラーメン二郎 札幌店",
-    "address": "北海道札幌市中央区南6条西9-1024-10",
-    "latitude": 43.0519,
-    "longitude": 141.3468,
-    "holiday": "不定休",
-    "x_account_url": "https://x.com/jiro_sapporo"
+    "id": "nishidai",
+    "name": "ラーメン二郎 西台駅前店",
+    "address": "東京都板橋区蓮根3-9-7",
+    "latitude": 35.7820,
+    "longitude": 139.6749,
+    "holiday": "日・祝・不定休",
+    "x_account_url": "https://x.com/jiro_nishidai"
+  },
+  {
+    "id": "nakayama_ekimae",
+    "name": "ラーメン二郎 中山駅前店",
+    "address": "神奈川県横浜市緑区中山1-6-18",
+    "latitude": 35.5135,
+    "longitude": 139.5447,
+    "holiday": "木曜日",
+    "x_account_url": "https://x.com/NKYMJIRO"
   },
   {
     "id": "sendai",
@@ -358,6 +286,15 @@
     "longitude": 140.8659,
     "holiday": "日・祝・不定休",
     "x_account_url": "https://x.com/jiro_sendai1023"
+  },
+  {
+    "id": "sapporo",
+    "name": "ラーメン二郎 札幌店",
+    "address": "北海道札幌市中央区南6条西9-1024-10",
+    "latitude": 43.0519,
+    "longitude": 141.3468,
+    "holiday": "不定休",
+    "x_account_url": "https://x.com/jiro_sapporo"
   },
   {
     "id": "aizu_wakamatsu",
@@ -378,6 +315,15 @@
     "x_account_url": "https://x.com/jiro_niigata"
   },
   {
+    "id": "kawagoe",
+    "name": "ラーメン二郎 川越店",
+    "address": "埼玉県川越市旭町1-4-15",
+    "latitude": 35.9066,
+    "longitude": 139.4791,
+    "holiday": "不定休",
+    "x_account_url": "https://x.com/jiro_kawagoe"
+  },
+  {
     "id": "kyoto",
     "name": "ラーメン二郎 京都店",
     "address": "京都府京都市左京区一乗寺里ノ前町4",
@@ -385,5 +331,77 @@
     "longitude": 135.7925,
     "holiday": "水曜日",
     "x_account_url": null
+  },
+  {
+    "id": "koshigaya",
+    "name": "ラーメン二郎 越谷店",
+    "address": "埼玉県越谷市越ヶ谷2-3-7",
+    "latitude": 35.8900,
+    "longitude": 139.7905,
+    "holiday": "水曜日",
+    "x_account_url": "https://x.com/ksgy_jiro"
+  },
+  {
+    "id": "maebashi",
+    "name": "ラーメン二郎 前橋千代田町店",
+    "address": "群馬県前橋市千代田町4-12-3",
+    "latitude": 36.3934,
+    "longitude": 139.0716,
+    "holiday": "月曜日",
+    "x_account_url": "https://x.com/jiro_maebashi"
+  },
+  {
+    "id": "chiba",
+    "name": "ラーメン二郎 千葉店",
+    "address": "千葉県千葉市中央区中央1-7-8",
+    "latitude": 35.6108,
+    "longitude": 140.1243,
+    "holiday": "日曜日",
+    "x_account_url": "https://x.com/jiro_c"
+  },
+  {
+    "id": "omiya_koen",
+    "name": "ラーメン二郎 大宮公園駅前店",
+    "address": "埼玉県さいたま市大宮区寿能町1-24",
+    "latitude": 35.9231,
+    "longitude": 139.6335,
+    "holiday": "水曜日",
+    "x_account_url": "https://x.com/jiro_omiya"
+  },
+  {
+    "id": "hitachinaka",
+    "name": "ラーメン二郎 ひたちなか店",
+    "address": "茨城県ひたちなか市一番町11-23",
+    "latitude": 36.3957,
+    "longitude": 140.5367,
+    "holiday": "火曜日",
+    "x_account_url": null
+  },
+  {
+    "id": "hitotsubashi_gakuen",
+    "name": "ラーメン二郎 一橋学園店",
+    "address": "東京都小平市学園東町1-8-19",
+    "latitude": 35.7226,
+    "longitude": 139.4975,
+    "holiday": "木・日・祝",
+    "x_account_url": "https://x.com/1284jiro"
+  },
+  {
+    "id": "ikuta",
+    "name": "ラーメン二郎 生田店",
+    "address": "神奈川県川崎市多摩区生田8-1-15",
+    "latitude": 35.6175,
+    "longitude": 139.5398,
+    "holiday": "日・祝",
+    "x_account_url": "https://x.com/jiro_ikuta"
+  },
+  {
+    "id": "asakuragaido",
+    "name": "ラーメン二郎 朝倉街道駅前店",
+    "address": "福岡県筑紫野市針摺西2-1-10",
+    "latitude": 33.4885,
+    "longitude": 130.5280,
+    "holiday": "月曜日",
+    "x_account_url": "https://x.com/jiro_asakura"
   }
 ]
