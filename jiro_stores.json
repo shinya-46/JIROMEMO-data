@@ -15,7 +15,7 @@
     "latitude": 35.6363,
     "longitude": 139.7020,
     "holiday": "水曜日",
-    "x_account_url": null
+    "x_account_url": "https://x.com/meguro_jiro"
   },
   {
     "id": "sengawa",
@@ -24,7 +24,7 @@
     "latitude": 35.6631,
     "longitude": 139.5843,
     "holiday": "日曜日",
-    "x_account_url": null
+    "x_account_url": "https://x.com/senjiro26"
   },
   {
     "id": "shinjuku_kabukicho",
@@ -33,7 +33,7 @@
     "latitude": 35.6968,
     "longitude": 139.7013,
     "holiday": "水曜日",
-    "x_account_url": null
+    "x_account_url": "https://x.com/kabujiikeji"
   },
   {
     "id": "shinagawa",
@@ -42,7 +42,7 @@
     "latitude": 35.6263,
     "longitude": 139.7408,
     "holiday": "日・祝",
-    "x_account_url": null
+    "x_account_url": "https://x.com/shinagawa26"
   },
   {
     "id": "shinjuku_kotakibashi",
@@ -60,7 +60,7 @@
     "latitude": 35.6617,
     "longitude": 139.6644,
     "holiday": "火曜日",
-    "x_account_url": "https://x.com/26_smda"
+    "x_account_url": "https://x.com/26shinshindaita"
   },
   {
     "id": "hachioji_yaen",
@@ -69,7 +69,7 @@
     "latitude": 35.6322,
     "longitude": 139.4183,
     "holiday": "日曜日",
-    "x_account_url": "https://x.com/jiro_yaenkaido2"
+    "x_account_url": "https://x.com/Jiro_Yaenkaido2"
   },
   {
     "id": "ikebukuro_higashi",
@@ -78,7 +78,7 @@
     "latitude": 35.7271,
     "longitude": 139.7153,
     "holiday": "月曜日",
-    "x_account_url": "https://x.com/jiro_ikebukuro"
+    "x_account_url": "https://x.com/ikejikabuji"
   },
   {
     "id": "kameido",
@@ -96,7 +96,7 @@
     "latitude": 35.5320,
     "longitude": 139.7025,
     "holiday": "日・祝",
-    "x_account_url": "https://x.com/jiro_keikyu_kw"
+    "x_account_url": null
   },
   {
     "id": "fuchu",
@@ -105,7 +105,7 @@
     "latitude": 35.6720,
     "longitude": 139.4795,
     "holiday": "日・祝",
-    "x_account_url": null
+    "x_account_url": "https://x.com/jiro_fuchu"
   },
   {
     "id": "matsudo_ekimae",
@@ -114,7 +114,7 @@
     "latitude": 35.7825,
     "longitude": 139.9000,
     "holiday": "日・祝",
-    "x_account_url": "https://x.com/jiromatsudo"
+    "x_account_url": "https://x.com/matsudojiro3"
   },
   {
     "id": "hachioji_mejirodai",
@@ -123,7 +123,7 @@
     "latitude": 35.6393,
     "longitude": 139.2977,
     "holiday": "日・木",
-    "x_account_url": null
+    "x_account_url": "https://x.com/mejirodai_jiro"
   },
   {
     "id": "ogikubo",
@@ -132,7 +132,7 @@
     "latitude": 35.7036,
     "longitude": 139.6222,
     "holiday": "月・祝",
-    "x_account_url": "https://x.com/jiro_ogikubo"
+    "x_account_url": null
   },
   {
     "id": "ueno_ge",
@@ -141,7 +141,7 @@
     "latitude": 35.6111,
     "longitude": 139.6358,
     "holiday": "日・祝",
-    "x_account_url": null
+    "x_account_url": "https://x.com/KaminogeJiro"
   },
   {
     "id": "keisei_okubo",
@@ -150,7 +150,7 @@
     "latitude": 35.7130,
     "longitude": 140.0573,
     "holiday": "日曜日",
-    "x_account_url": "https://x.com/keisei_okubo_26"
+    "x_account_url": "https://x.com/okb26"
   },
   {
     "id": "ichinoe",
@@ -159,7 +159,7 @@
     "latitude": 35.6881,
     "longitude": 139.8732,
     "holiday": "水曜日",
-    "x_account_url": null
+    "x_account_url": "https://x.com/ichinoejiro"
   },
   {
     "id": "sagamiono",
@@ -168,7 +168,7 @@
     "latitude": 35.5323,
     "longitude": 139.4344,
     "holiday": "日曜日",
-    "x_account_url": "https://x.com/rekishi_shinei"
+    "x_account_url": "https://x.com/sumo_jiro"
   },
   {
     "id": "yokohama_kannai",
@@ -186,7 +186,7 @@
     "latitude": 35.6948,
     "longitude": 139.7573,
     "holiday": "日曜日",
-    "x_account_url": "https://x.com/jinbochojiro"
+    "x_account_url": "https://x.com/bc_jimbolian"
   },
   {
     "id": "koiwa",
@@ -195,7 +195,7 @@
     "latitude": 35.7360,
     "longitude": 139.8795,
     "holiday": "日曜日",
-    "x_account_url": null
+    "x_account_url": "https://x.com/koiwajiro"
   },
   {
     "id": "hibarigaoka",
@@ -204,7 +204,7 @@
     "latitude": 35.7618,
     "longitude": 139.5298,
     "holiday": "日・祝",
-    "x_account_url": "https://x.com/jiro_hibari"
+    "x_account_url": "https://x.com/aarf0xvdbxkwd7o"
   },
   {
     "id": "sakuradai",
@@ -222,7 +222,7 @@
     "latitude": 36.4172,
     "longitude": 139.8143,
     "holiday": "月曜日",
-    "x_account_url": "https://x.com/tochigikaido"
+    "x_account_url": "https://x.com/Tochigikaidoten"
   },
   {
     "id": "tachikawa",
@@ -231,7 +231,7 @@
     "latitude": 35.6953,
     "longitude": 139.4172,
     "holiday": "水曜日",
-    "x_account_url": "https://x.com/jiro_tachikawa"
+    "x_account_url": "https://x.com/jirotachikawa"
   },
   {
     "id": "senju_ohashi",
@@ -240,7 +240,7 @@
     "latitude": 35.7460,
     "longitude": 139.7951,
     "holiday": "木曜日",
-    "x_account_url": "https://x.com/senjudai26"
+    "x_account_url": "https://x.com/senjujirou26"
   },
   {
     "id": "kashiwa",
@@ -249,7 +249,7 @@
     "latitude": 35.8778,
     "longitude": 139.9322,
     "holiday": "月曜日",
-    "x_account_url": null
+    "x_account_url": "https://x.com/genkimoriya"
   },
   {
     "id": "fujisawa",
@@ -258,7 +258,7 @@
     "latitude": 35.3408,
     "longitude": 139.4890,
     "holiday": "火曜日",
-    "x_account_url": "https://x.com/enfujisawa"
+    "x_account_url": "https://x.com/fujirow26"
   },
   {
     "id": "nishidai",
@@ -294,7 +294,7 @@
     "latitude": 43.0519,
     "longitude": 141.3468,
     "holiday": "不定休",
-    "x_account_url": "https://x.com/jiro_sapporo"
+    "x_account_url": "https://x.com/jiro_sapporo_"
   },
   {
     "id": "aizu_wakamatsu",
@@ -303,7 +303,7 @@
     "latitude": 37.5020,
     "longitude": 139.9275,
     "holiday": "月曜日",
-    "x_account_url": "https://x.com/jiro_aizu"
+    "x_account_url": "https://x.com/aizu_jiro"
   },
   {
     "id": "niigata",
@@ -312,7 +312,7 @@
     "latitude": 37.9155,
     "longitude": 139.0601,
     "holiday": "月曜日",
-    "x_account_url": "https://x.com/jiro_niigata"
+    "x_account_url": "https://x.com/jiro.niigata"
   },
   {
     "id": "kawagoe",
@@ -321,7 +321,7 @@
     "latitude": 35.9066,
     "longitude": 139.4791,
     "holiday": "不定休",
-    "x_account_url": "https://x.com/jiro_kawagoe"
+    "x_account_url": "https://x.com/kwge26"
   },
   {
     "id": "kyoto",
@@ -330,7 +330,7 @@
     "latitude": 35.0500,
     "longitude": 135.7925,
     "holiday": "水曜日",
-    "x_account_url": null
+    "x_account_url": "https://x.com/jiro_kyoto"
   },
   {
     "id": "koshigaya",
@@ -339,7 +339,7 @@
     "latitude": 35.8900,
     "longitude": 139.7905,
     "holiday": "水曜日",
-    "x_account_url": "https://x.com/ksgy_jiro"
+    "x_account_url": "https://x.com/ksgy26"
   },
   {
     "id": "maebashi",
@@ -348,7 +348,7 @@
     "latitude": 36.3934,
     "longitude": 139.0716,
     "holiday": "月曜日",
-    "x_account_url": "https://x.com/jiro_maebashi"
+    "x_account_url": "https://x.com/SnBZt6eRCdz7lQw"
   },
   {
     "id": "chiba",
@@ -357,7 +357,7 @@
     "latitude": 35.6108,
     "longitude": 140.1243,
     "holiday": "日曜日",
-    "x_account_url": "https://x.com/jiro_c"
+    "x_account_url": "https://x.com/jiro_chiba"
   },
   {
     "id": "omiya_koen",
@@ -366,7 +366,7 @@
     "latitude": 35.9231,
     "longitude": 139.6335,
     "holiday": "水曜日",
-    "x_account_url": "https://x.com/jiro_omiya"
+    "x_account_url": "https://x.com/omiyapark26"
   },
   {
     "id": "hitachinaka",
@@ -375,7 +375,7 @@
     "latitude": 36.3957,
     "longitude": 140.5367,
     "holiday": "火曜日",
-    "x_account_url": null
+    "x_account_url": "https://x.com/26_hitachinaka"
   },
   {
     "id": "hitotsubashi_gakuen",
@@ -393,7 +393,7 @@
     "latitude": 35.6175,
     "longitude": 139.5398,
     "holiday": "日・祝",
-    "x_account_url": "https://x.com/jiro_ikuta"
+    "x_account_url": "https://x.com/ikuta_jiro"
   },
   {
     "id": "asakuragaido",
